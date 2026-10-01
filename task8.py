@@ -1,3 +1,7 @@
+# Task 8: Simple Calculator Module
+# Create a simple calculator module with functions for addition, subtraction, multiplication, and division.
+# Then, create a script that imports this module and allows the user to perform calculations by entering two numbers and choosing an operation.
+
 import calculator
 
 def task8():
