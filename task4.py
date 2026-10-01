@@ -1,3 +1,7 @@
+# Task 4:Math Quiz with Exception Handling
+# Create a simple math quiz that generates two random numbers and asks the user to add them. 
+# Use native random module.
+
 import random
 
 def MathQuiz():
